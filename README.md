@@ -4,6 +4,15 @@ The mission is to facilitate easy management and administration of a hotel with 
 In this project the details are maintained like customer details, reservation details, Booking details The reservation process of reserving rooms for the customers, canceling the reserved rooms, booking the rooms, vacating the rooms, the restaurant management, billing process, Driver, etc all are computerized and the management is done without any difficulty.
 The report can be viewed completely and the head of the management daily or weekly or monthly can review it. For hotel auditing it will be more useful. This proposed System will be interactive, faster and user-friendly for the end users. Using the hotel management system, the following activities can be performed.
 
+#Home page
 ![image](https://github.com/user-attachments/assets/293976fb-3f7e-4398-8a0d-24065a2f76b8)
+
+#login page
+![image](https://github.com/user-attachments/assets/6d7c3c52-a69f-4739-96d1-94cfe8fbbf6d)
+
+#Dashboard
+![image](https://github.com/user-attachments/assets/5a1d53d1-7429-4c77-ae99-c40381c7a5a1)
+
+
 
 
