@@ -17,21 +17,27 @@ Dashboard
 ![image](https://github.com/user-attachments/assets/5a1d53d1-7429-4c77-ae99-c40381c7a5a1)
 
 Add Employee
+
 ![image](https://github.com/user-attachments/assets/adfd4355-1b34-434e-a1eb-89b38d9a1366)
 
 Reception
+
 ![image](https://github.com/user-attachments/assets/fb82c8fc-556a-44e1-85a5-f131f493c238)
  
 Add Room
+
 ![image](https://github.com/user-attachments/assets/27a583f8-c4de-401b-90c5-00f5a4a48ad5)
 
 
 Room Information
+
 ![image](https://github.com/user-attachments/assets/b8564525-655a-4765-8f12-e29353d0a000)
 
 Check Out
+
 ![image](https://github.com/user-attachments/assets/0e54143a-0dec-487f-97ea-71c0ae070d1f)
 
 Update Room Status
+
 ![image](https://github.com/user-attachments/assets/3256d43b-ab24-4794-abcd-3db28e8987f9)
 
